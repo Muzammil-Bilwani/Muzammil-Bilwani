@@ -3,11 +3,6 @@
 <p>I'm currently a software engineer at <strong><a href="https://www.careem.com/">Careem</a></strong> . I am working on some side codes, learning a couple new dishes.</p>
 
 
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-
-
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
