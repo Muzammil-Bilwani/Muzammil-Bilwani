@@ -30,6 +30,6 @@
 Feel free to contact me :yum:
 <br><br>
 
-<a href="https://www.linkedin.com/in/muzammilbilwani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
+<a href="https://www.linkedin.com/in/muzammilbilwani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-muzammilbilwani-informational"></a>
 <a href="mailto:muzammil.bilwani@hotmail.com"><img src="https://img.shields.io/badge/Email-orange"></a>
 <a href="https://muzammilbilwani.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-muzammilbilwani.com-red"></a>
